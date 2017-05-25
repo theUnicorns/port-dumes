@@ -1,0 +1,22 @@
+{
+  "name": "port-dumes",
+  "version": "1.0.0",
+  "description": "Dating website",
+  "main": "nodeTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theUnicorns/port-dumes.git"
+  },
+  "author": "Andrew Langford, Jonathan Langford, Matthew Langford, James Langford, Lina Langford.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theUnicorns/port-dumes/issues"
+  },
+  "homepage": "https://github.com/theUnicorns/port-dumes#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
